@@ -1,6 +1,6 @@
 # Landing Page
 
-Under Construction on http://168.138.104.186/
+Under Construction on http://152.67.97.228/
 
 ## Cloud Spesification
 
